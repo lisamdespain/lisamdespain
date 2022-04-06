@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @lisamdespain
-- 👀 I’m interested in full stack web development
-- 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on...fun stuff?
-- 📫 How to reach me: email lisamdespain@gmail.com
+- 👋 Hi, I’m Lisa DeSpain, aka @lisamdespain
+- 👀 I’m a student at BloomTech learning full stack web development
+- 🌱 I’m currently learning javascript, next week we start React
+- 💞️ I’m looking to collaborate on responsive CSS projects
+- 📫 How to reach me: email lisamdespain@gmail.com or LinkedIn: https://www.linkedin.com/in/lisa-despain-80a48730/
 
 <!---
 lisamdespain/lisamdespain is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
