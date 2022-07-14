@@ -1,5 +1,5 @@
 
-  <img src="https://media-exp1.licdn.com/dms/image/C5616AQHP5WqDMS2kbQ/profile-displaybackgroundimage-shrink_200_800/0/1657728653545?e=1663200000&v=beta&t=IIGQIAZsQWQvJO3zDAftG50uod6xB2rk3HMqCw7HnxY"/>
+  <img src="https://media-exp1.licdn.com/dms/image/C5616AQHP5WqDMS2kbQ/profile-displaybackgroundimage-shrink_200_800/0/1657728653545?e=1663200000&v=beta&t=IIGQIAZsQWQvJO3zDAftG50uod6xB2rk3HMqCw7HnxY" width="100%"/>
   
 
 👋 Hi, I’m Lisa DeSpain, aka @lisamdespain
