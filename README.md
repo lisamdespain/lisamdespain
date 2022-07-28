@@ -7,7 +7,7 @@
 <p><b>SKILLS: </b><br />
 <b>Front End:</b> JavaScript, HTML, CSS, Responsive Design, React.js, Redux, Hooks, Context API, Jest, Cypress, Axios<br />
 <b>Back End:</b> Node.js, Express, REST API, SQL, Knex, Sqlite3, GitHub, VS Code, Vercel, Heroku, Netlify, Postman<br />
-<b>Expertise:</b> Agile Project Management, Algorithms, Architecture, Debugging, Deployment, Adobe Creative Suite, MS Office
+<b>Expertise:</b> Project Management, Algorithms, Architecture, Debugging, Deployment, Adobe Creative Suite, MS Office
 
 - 👀 I’m a student at BloomTech learning full stack web development
 - 🌱 We just finished React - I love it!
