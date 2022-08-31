@@ -5,8 +5,8 @@
 👋 Hi, I’m Lisa DeSpain, aka @lisamdespain
 
 <p><b>SKILLS: </b><br />
-<b>Fronend:</b> JavaScript, HTML, CSS, Ant Design, Responsive Design, React.js, Redux, Hooks, Context API, Jest, Cypress, Axios, Shopify, WordPress<br />
-<b>Bacend:</b> Node.js, Express, REST API, SQL, Knex, SQLite3, GitHub, VS Code, Vercel, Heroku, Netlify, Postman<br />
+<b>Frontend:</b> JavaScript, HTML, CSS, Ant Design, Responsive Design, React.js, Redux, Hooks, Context API, Jest, Cypress, Axios, Shopify, WordPress<br />
+<b>Backend:</b> Node.js, Express, REST API, SQL, Knex, SQLite3, GitHub, VS Code, Vercel, Heroku, Netlify, Postman<br />
 <b>Skills:</b> Project Management, Algorithms, Architecture, Debugging, Deployment, Jira, Agile, InDesign, Photoshop, MS Office
 
 - 👀 I’m a student at BloomTech learning full stack web development
