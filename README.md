@@ -5,7 +5,7 @@
 👋 Hi, I’m Lisa DeSpain, aka @lisamdespain
 
 <p><b>SKILLS: </b><br />
-<b>Front End:</b> JavaScript, HTML, CSS, Responsive Design, React.js, Redux, Hooks, Context API, Jest, Cypress, Axios<br />
+<b>Front End:</b> JavaScript, HTML, CSS, Responsive Design, React.js, Redux, Hooks, Context API, Jest, Cypress, Axios, Shopify, Wordpress<br />
 <b>Back End:</b> Node.js, Express, REST API, SQL, Knex, Sqlite3, GitHub, VS Code, Vercel, Heroku, Netlify, Postman<br />
 <b>Expertise:</b> Project Management, Algorithms, Architecture, Debugging, Deployment, Adobe Creative Suite, MS Office
 
