@@ -5,13 +5,13 @@
 👋 Hi, I’m Lisa DeSpain, aka @lisamdespain
 
 <p><b>SKILLS: </b><br />
-<b>Frontend:</b> JavaScript, HTML, CSS, Ant Design, Responsive Design, React.js, Redux, Hooks, Context API, Jest, Cypress, Axios, Shopify, WordPress<br />
+<b>Frontend:</b> JavaScript, HTML, CSS, Ant Design, Material UI, Responsive Design, React.js, Redux, Hooks, Context API, Jest, Cypress, Axios, Shopify, WordPress<br />
 <b>Backend:</b> Node.js, Express, REST API, SQL, Knex, SQLite3, GitHub, VS Code, Vercel, Heroku, Netlify, Postman<br />
-<b>Skills:</b> Project Management, Algorithms, Architecture, Debugging, Deployment, Jira, Agile, InDesign, Photoshop, MS Office
+<b>Skills:</b> Project Management, Algorithms, Architecture, Debugging, Jira, Agile, InDesign, Photoshop, MS Office
 
-- 👀 I’m a student at BloomTech learning full stack web development
-- 🌱 We just finished React - I love it!
-- 💞️ I’m looking to collaborate on React projects, especially if using Redux
+- 👀 I just completed the full stack web development program at BloomTech, and am working on several apps in development
+- 🌱 I love REACT!
+- 💞️ I’m looking to collaborate on React projects
 - ✨ Weird trivia about me: I love quilting, knitting and crochet
 - 📫 How to reach me: email lisamdespain@gmail.com or LinkedIn: https://www.linkedin.com/in/lisamdespain/
 
